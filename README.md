@@ -20,11 +20,43 @@ Je m'intéresse particulièrement aux projets de développement web à forte val
 </a>
 
  
+
+ 
  
  [![Twitter: abentouis](https://img.shields.io/twitter/follow/abentouis?style=social)](https://twitter.com/abentouis)
-[![Linkedin: abdelhakbentouis](https://img.shields.io/badge/-Ouhamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelhakbentouis/)](https://www.linkedin.com/in/abdelhakbentouis/)
+[![Linkedin: abdelhakbentouis](https://img.shields.io/badge/-bentouis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelhakbentouis/)](https://www.linkedin.com/in/abdelhakbentouis/)
 [![GitHub bentouis](https://img.shields.io/github/followers/bentouis?label=follow&style=social)](https://github.com/bentouis)
 
+ 
+ 
+ 
+ 
+ ## **Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png"></code>
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
+
+:pushpin:		Langage: Java8, Javascript, PHP.<br/>
+:pushpin:		Framework: Spring Framework, Spring Batch, Spring Boot.<br/>
+:pushpin:		Persistence: JPA/Hibernate, MongoDB, Spring Data.<br/>
+:pushpin:		Web:JSP,SpringMVC ,Bootstrap.<br/>
+:pushpin:		REST:Jersey,Swagger.<br/>
+:pushpin:		Javascript:AngularJS ,JQuery.<br/>
+:pushpin:		Security:SpringSecurity.<br/>
+:pushpin:		Test : JUnit, Mockito.<br/>
+:pushpin:		Search:ElasticSearch.<br/>
+:pushpin:		SCM/Build:Git,Maven ,Sonar,Jenkins.<br/>
+:pushpin:		DevOps:Docker.<br/>
+:pushpin:		Server/Environment:Tomcat,Jetty,Linux,Windows,IntelliJ,Eclipse.<br/>
+:pushpin:		Methodology:Scrum ,TDD.<br/>
+
+ 
+ 
+ 
+ 
+ 
  
  
  
