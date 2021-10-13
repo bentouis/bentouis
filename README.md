@@ -10,5 +10,5 @@ Je m'intéresse particulièrement aux projets de développement web à forte val
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bentouis)](https://github.com/bentouis/github-readme-stats)
 
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?bentouis=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?bentouis=willianrod)](https://github.com/bentouis/github-readme-stats)
 
